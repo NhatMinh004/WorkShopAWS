@@ -30,10 +30,9 @@ The system leverages a modern containerized and serverless architecture designed
    * Package Backend applications, register to ECR, and orchestrate serverless containers using ECS Fargate behind an ALB with Sticky Sessions.
 6. **[Serverless Payment & SQS Pipeline](5.6-serverless-payment/)**
    * Build serverless asynchronous callback integration using AWS Lambda, SQS message queues, and consumer workers.
-7. **[CloudFront Distribution & AWS WAF](5.7-cloudfront-waf/)**
+7. **[CloudFront Distribution & AWS WAF](5.7-secretsmanager-waf/)**
    * Build and deploy React SPA to S3, accelerate globally via CloudFront CDN, and filter attacks using AWS WAF.
 8. **[Testing, Cleanup & Summary](5.8-testing-cleanup/)**
    * End-to-end functionality testing, architecture cost/security review, and resource cleanup guide.
 9. **[Demo](5.9-demo/)**
    * Demo video/file for the workshop.
-
