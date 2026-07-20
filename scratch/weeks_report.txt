@@ -1,0 +1,72 @@
+Directory: 1.1-Week1
+  VI Title: Worklog Tuần 1
+  EN Title: Week 1 Worklog
+  VI Obj: ['Hoàn thành thủ tục đăng ký tài khoản portal và đăng ký lịch làm việc tại văn phòng.', 'Đăng nhập tài khoản AWS, làm quen hệ thống và cấu hình AWS Budgets để kiểm soát chi phí.']
+  EN Obj: ['Complete registration on the portal account and schedule office attendance.', 'Log into the AWS account, explore the platform, and set up AWS Budgets to manage usage costs.']
+----------------------------------------
+Directory: 1.10-Week10
+  VI Title: Worklog Tuần 10
+  EN Title: Week 10 Worklog
+  VI Obj: ['Tích hợp hộp thoại Chat thời gian thực (Real-time Chat) và hệ thống thông báo tức thời (Notification System) sử dụng WebSockets.', 'Xây dựng widget chat cho khách hàng và trang quản trị chat cho Admin.']
+  EN Obj: ['Integrate real-time chat (Real-time Chat) and instant notifications (Notification System) using WebSockets.', 'Build floating customer Chat widgets and corresponding admin panel chat dashboard.']
+----------------------------------------
+Directory: 1.11-Week11
+  VI Title: Worklog Tuần 11
+  EN Title: Week 11 Worklog
+  VI Obj: ['Phát triển Phân hệ Quản trị (Admin Dashboard) với các chức năng quản lý sản phẩm phụ tùng, đơn hàng và tạo mã giảm giá.', 'Tích hợp các biểu đồ phân tích số liệu kinh doanh sử dụng thư viện Recharts.']
+  EN Obj: ['Develop the Admin Dashboard panel governing product list updates, client orders, and coupon vouchers.', 'Embed Recharts analytical widgets for visualizing business statistics like revenue streams and order count trends.']
+----------------------------------------
+Directory: 1.12-Week12
+  VI Title: Worklog Tuần 12
+  EN Title: Week 12 Worklog
+  VI Obj: ['Đóng gói mã nguồn React SPA (Vite) và triển khai lên AWS S3 hỗ trợ Static Website Hosting kết hợp SSL/HTTPS trên CloudFront.', 'Tích hợp AWS WAF (Web Application Firewall) bảo vệ website khỏi tấn công DDoS và Bot quét tự động.']
+  EN Obj: ['Compile React SPA (Vite) bundle and deploy assets to AWS S3 Static Website Hosting under SSL/HTTPS on CloudFront CDN.', 'Integrate AWS WAF policies filtering DDoS attempts and scanning bots.']
+----------------------------------------
+Directory: 1.2-Week2
+  VI Title: Worklog Tuần 2
+  EN Title: Week 2 Worklog
+  VI Obj: ['Tham gia làm việc tại văn phòng và hoàn thành lab về xác thực tài khoản.', 'Thực hành chuyên sâu về quản lý chi phí AWS Budgets (Usage, RI, Savings Plans).']
+  EN Obj: ['Attend office hours and complete the account authentication support lab.', 'Gain deep practice on AWS Budgets cost controls (Usage, RI, Savings Plans).']
+----------------------------------------
+Directory: 1.3-Week3
+  VI Title: Worklog Tuần 3
+  EN Title: Week 3 Worklog
+  VI Obj: ['Hoàn thành triển khai mạng VPC, cấu hình định tuyến Internet qua NAT Gateway & IGW và thiết lập các nhóm bảo mật (Security Groups).', 'Triển khai các máy chủ EC2 trong Subnet và cấu hình phương thức kết nối an toàn với EC2 Instance Connect Endpoint.']
+  EN Obj: ['Complete VPC networking deployment, configure internet routing via NAT Gateway & IGW, and set up Security Groups.', 'Launch EC2 instances in subnets and configure secure connection methods using EC2 Instance Connect Endpoint.']
+----------------------------------------
+Directory: 1.4-Week4
+  VI Title: Worklog Tuần 4
+  EN Title: Week 4 Worklog
+  VI Obj: ['Tìm hiểu chi tiết các tính năng tính toán nâng cao của EC2 bao gồm: Instance Types, AMI, EBS, Instance Store, User Data, Metadata và Auto Scaling.', 'Thực hành giải pháp sao lưu tự động cho hệ thống máy chủ bằng dịch vụ AWS Backup.']
+  EN Obj: ['Understand advanced EC2 compute features in detail, including Instance Types, AMI, EBS, Instance Store, User Data, Metadata, and Auto Scaling.', 'Deploy automated backup policies using AWS Backup.']
+----------------------------------------
+Directory: 1.5-Week5
+  VI Title: Worklog Tuần 5
+  EN Title: Week 5 Worklog
+  VI Obj: ['Nghiên cứu chi tiết các giải pháp lưu trữ nâng cao của AWS (S3 Access Points, Storage Classes, Glacier, Snow Family) và thực hành dịch chuyển máy chủ từ On-premises (VM Import/Export).', 'Triển khai hệ thống tệp tin dùng chung hiệu năng cao Multi-AZ FSx cho Windows File Server (SSD/HDD FSx, Shadow copies, Quotas, Data deduplication) và AWS Storage Gateway.']
+  EN Obj: ['Study in-depth advanced AWS storage solutions (S3 Access Points, Storage Classes, Glacier, Snow Family) and perform virtual machine migration from on-premises (VM Import/Export).', 'Deploy high-performance Multi-AZ FSx for Windows File Server (SSD/HDD FSx, Shadow copies, Quotas, Data deduplication) and AWS Storage Gateway.']
+----------------------------------------
+Directory: 1.6-Week6
+  VI Title: Worklog Tuần 6
+  EN Title: Week 6 Worklog
+  VI Obj: ['Khởi tạo cấu trúc dự án React (Vite) và thiết lập thiết kế Tailwind CSS cùng hệ thống định tuyến (Routing).', 'Xây dựng giao diện Đăng nhập & Đăng ký tối ưu hóa Responsive cho di động.']
+  EN Obj: ['Initialize React/Vite boilerplate structure and configure Tailwind CSS along with routing architecture.', 'Build Register & Login screens optimized with responsive styling for mobile platforms.']
+----------------------------------------
+Directory: 1.7-Week7
+  VI Title: Worklog Tuần 7
+  EN Title: Week 7 Worklog
+  VI Obj: ['Xây dựng giao diện các trang chủ chốt của cửa hàng gồm Trang chủ (Home), trang Cửa hàng (Shop) có bộ lọc và trang Sơ đồ xe tương tác (Schematic).', 'Thiết kế trang Chi tiết phụ tùng (PartDetail), trang So sánh (Compare) và danh sách yêu thích (Wishlist).']
+  EN Obj: ['Construct core storefront pages: Homepage, filter-enabled Shop page, and interactive vehicle Schematic view.', 'Design technical Part Detail sheet, product Comparison panel, and user Wishlist.']
+----------------------------------------
+Directory: 1.8-Week8
+  VI Title: Worklog Tuần 8
+  EN Title: Week 8 Worklog
+  VI Obj: ['Phát triển quy trình Giỏ hàng (Cart) và lập trình các bước thanh toán đơn hàng.', 'Tích hợp bản đồ địa lý Leaflet vào quy trình nhập thông tin giao nhận hàng (Shipping).']
+  EN Obj: ['Develop the Cart management module and code checkout navigation flows.', 'Embed Leaflet maps into the shipping configuration views to pin customer address geographical coordinates.']
+----------------------------------------
+Directory: 1.9-Week9
+  VI Title: Worklog Tuần 9
+  EN Title: Week 9 Worklog
+  VI Obj: ['Tích hợp giao diện quét ảnh phụ tùng hỏng bằng AI (AI Scan UI) và kết nối camera thiết bị di động.', 'Thiết kế trang chọn phương thức thanh toán, xử lý điều hướng sang cổng thanh toán MoMo, VNPay, Stripe.']
+  EN Obj: ['Integrate AI-powered broken auto part scanning interface (AI Scan UI) and bind mobile cameras.', 'Design payment method selection gateway, executing redirects to VNPay, MoMo, and Stripe hosts.']
+----------------------------------------

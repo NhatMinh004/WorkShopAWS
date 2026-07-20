@@ -12,7 +12,7 @@ pre: " <b> 1. </b> "
 
 # Nhật ký công việc (Worklog)
 
-Trang này ghi nhận lại toàn bộ lộ trình thực tập kéo dài 12 tuần của tôi tại First Cloud AI Journey, từ việc tiếp cận đào tạo dịch vụ hạ tầng AWS cơ bản cho đến việc phát triển giao diện người dùng và triển khai giải pháp Cloud hoàn chỉnh cho nền tảng thương mại điện tử phụ tùng ô tô **NodeJ2Car**.
+Trang này ghi nhận lại toàn bộ lộ trình thực tập kéo dài 15 tuần của tôi tại First Cloud AI Journey, từ việc tiếp cận đào tạo dịch vụ hạ tầng AWS cơ bản cho đến việc phát triển giao diện người dùng và triển khai giải pháp Cloud hoàn chỉnh cho nền tảng thương mại điện tử phụ tùng ô tô **NodeJ2Car**.
 
 Chi tiết các nội dung thực hiện theo từng tuần như sau:
 
@@ -36,6 +36,12 @@ Chi tiết các nội dung thực hiện theo từng tuần như sau:
 
 **Tuần 10:** [Thiết lập đường truyền hỗ trợ trực tuyến thời gian thực (WebSockets / Socket.io)](1.10-Week10/)
 
-**Tuần 11:** [Tích hợp bộ quét phụ tùng bằng hình ảnh AI (Amazon Bedrock & API backend)](1.11-Week11/)
+**Tuần 11:** [Phát triển phân hệ quản trị (Admin Dashboard), biểu đồ phân tích và kiểm duyệt hỗ trợ khách hàng](1.11-Week11/)
 
-**Tuần 12:** [Tối ưu hóa phân phối tại biên (CloudFront CDN) và thiết lập tường lửa AWS WAF](1.12-Week12/)
+**Tuần 12:** [Đóng gói mã nguồn React SPA và triển khai lên AWS S3 Static Website Hosting kết hợp Amazon CloudFront CDN](1.12-Week12/)
+
+**Tuần 13:** [Tích hợp chính sách bảo mật mạng AWS WAF ngăn chặn tấn công DDoS và Bot quét tự động](1.13-Week13/)
+
+**Tuần 14:** [Tối ưu hóa hiệu năng qua Google Lighthouse, hoàn thiện SEO metadata và cấu hình Cache-Control](1.14-Week14/)
+
+**Tuần 15:** [Kiểm thử toàn diện End-to-End toàn hệ thống, hoàn tất bàn giao dự án và tổng hợp báo cáo thực tập](1.15-Week15/)
