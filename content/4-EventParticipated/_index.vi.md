@@ -24,23 +24,24 @@ pre: " <b> 4. </b> "
 
 Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng món quà và những khoảnh khắc rất tuyệt vời.
 
-### [Event 1](4.1-Event1/)
-&emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
+### [Event 1: AWS Community Day Vietnam 2026](4.1-Event1/)
+&emsp;**Tên sự kiện:** AWS Community Day Vietnam 2026
 
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
+&emsp;**Thời gian:** Ngày 23 tháng 05 năm 2026
 
-&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
-
-&emsp;**Vai trò trong sự kiện:** Người tham dự 
-
-
-
-### [Event 2](4.2-Event2/)
-&emsp;**Tên sự kiện:** GenAI-powered App-DB Modernization workshop
-
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
-
-&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
+&emsp;**Địa điểm:** Thành phố Hồ Chí Minh, Việt Nam
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
+
+---
+
+### [Event 2: Swinburne Cloud Mastery 2026](4.2-Event2/)
+&emsp;**Tên sự kiện:** Swinburne Cloud Mastery 2026
+
+&emsp;**Thời gian:** Ngày 20 tháng 06 năm 2026
+
+&emsp;**Địa điểm:** Trường Đại học Swinburne Việt Nam, Thành phố Hồ Chí Minh, Việt Nam
+
+&emsp;**Vai trò trong sự kiện:** Người tham dự
+
 

@@ -1,127 +1,82 @@
 ---
-title: "Event 2"
-date: 2024-01-01
-weight: 1
+title: "Swinburne Cloud Mastery 2026"
+date: 2026-06-20
+weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
+# Summary Report: Swinburne Cloud Mastery 2026
 
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+### Event Information
+* **Event Name:** Swinburne Cloud Mastery 2026
+* **Date & Time:** June 20, 2026 (08:00 - 12:00)
+* **Location:** Swinburne University Vietnam, Ho Chi Minh City, Vietnam
+* **Role:** Attendee
+* **Collaborators:** Swinburne Vietnam & AWS First Cloud AI Journey (FCAJ) Community
+
+---
 
 ### Event Objectives
+Swinburne Cloud Mastery 2026 was an inspiring technology event designed to bring together passionate students from Swinburne Vietnam in Ho Chi Minh City, as well as students who traveled from Can Tho, to learn from cloud computing experts. The primary goals included:
+* Inspiring student enthusiasm, curiosity, and passion for technology, with a focus on Cloud Computing and AWS.
+* Bridging the gap between academic learning and real-world system implementation in corporate environments.
+* Providing valuable career guidance and insights into the current Cloud job market and future technology trends.
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+---
 
-### Speakers
+### Key Sessions & Highlights
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+#### 1. Connecting Academia with Industry
+* **Speaker:** Duy Nguyen (Industry Liaison Officer, Swinburne Vietnam)
+* **Summary:**
+  * Kicked off the event by sharing the critical importance of linking academic curriculum with industrial practices.
+  * Encouraged students to actively engage with tech communities to gain early exposure to real-world software engineering environments.
 
-### Key Highlights
+#### 2. Cloud Computing Job Market & Career Trends
+* **Speaker:** Nguyễn Gia Hưng (Head of Solutions Architecture)
+* **Summary:**
+  * Provided valuable, data-driven insights into the current high demand for cloud professionals.
+  * Outlined the essential technical skill sets and valuable AWS certifications that can help graduates stand out to modern employers.
 
-#### Identifying the drawbacks of legacy application architecture
+#### 3. Data Engineer Career Journey
+* **Speaker:** Cam Vinh Banh (Data Engineer)
+* **Summary:**
+  * Shared his personal journey transitioning from a tech student to a professional Data Engineer.
+  * Highlighted real-world Data Architecture challenges, design considerations, and performance tuning experiences.
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+#### 4. Fireside Chat: "How Can We Foster a Vietnamese Steve Jobs?"
+* **Speakers & Hosts:** Nhu Tran and Nguyễn Ngọc Quỳnh Mai
+* **Summary:**
+  * Led an engaging panel discussion exploring innovative mindsets, tech entrepreneurship, and creativity among Vietnamese youth.
+  * Discussed how curiosity and technical capabilities on the cloud can solve large-scale business and societal problems.
 
-#### Transitioning to modern application architecture – Microservices
+#### 5. Bridging the Gap from University to Production
+* **Speaker:** Khang Nguyen (Solutions Architect at Cloud Kinetics & Swinburne Alumnus)
+* **Summary:**
+  * Discussed practical ways students can apply classroom theories to build robust cloud infrastructures.
+  * Shared recommendations on utilizing community programs like FCAJ to gain hands-on lab experience and construct portfolio projects.
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+---
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+### Key Takeaways & Lessons Learned
 
-#### Domain-Driven Design (DDD)
+#### 1. Core Foundations Matter
+* Learned that while tools change, architectural principles stay. A solid grip on fundamental computing knowledge is the most important asset for long-term growth.
+* Acknowledged that architecture design is a series of trade-offs, where every option carries specific costs in performance, maintenance, or budget.
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+#### 2. Communication is a Technical Skill
+* Gained a strong appreciation for the fact that clear communication is vital to aligning technology with business objectives. Expressing complex technical ideas effectively is just as crucial as writing clean code.
 
-#### Event-Driven Architecture
+#### 3. Networking and Career Acceleration
+* Built valuable connections with industry practitioners and fellow students within the AWS FCAJ network, opening up opportunities for future learning and collaboration.
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+---
 
-#### Compute Evolution
+### Some Event Photos
+![Swinburne Cloud Mastery 2026](/images/4-EventParticipated/4.2-Event2/event2.jpg)
 
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
+---
 
-#### Amazon Q Developer
-
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
-
-### Key Takeaways
-
-#### Design Mindset
-
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
-
-#### Technical Architecture
-
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
-
-#### Modernization Strategy
-
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
-
-### Applying to Work
-
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
-
-### Event Experience
-
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
-
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
-
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
-
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
-
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
-
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
-
-#### Some event photos
-![GenAI-powered App-DB Modernization workshop](/images/4-EventParticipated/4.2-Event2/event2.jpg)
-
-
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+### Personal Reflections
+> Swinburne Cloud Mastery 2026 was a highly energetic and inspiring event. The genuine sharing from the speakers fueled my motivation to continue exploring AWS Cloud technologies. The advice on continuous learning, embracing challenges, and contributing to the community serves as an invaluable guidepost for my career journey.

@@ -23,22 +23,23 @@ pre: " <b> 4. </b> "
 
 During my internship, I participated in two events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
 
-### [Event 1](4.1-Event1/)  
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop  
+### [Event 1: AWS Community Day Vietnam 2026](4.1-Event1/)  
+&emsp;**Event Name:** AWS Community Day Vietnam 2026  
 
-&emsp;**Date & Time:** 09:00, August 13, 2025  
+&emsp;**Date & Time:** May 23, 2026  
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+&emsp;**Location:** Ho Chi Minh City, Vietnam  
 
 &emsp;**Role:** Attendee  
 
 ---
 
-### [Event 2](4.2-Event2/)  
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop  
+### [Event 2: Swinburne Cloud Mastery 2026](4.2-Event2/)  
+&emsp;**Event Name:** Swinburne Cloud Mastery 2026  
 
-&emsp;**Date & Time:** 09:00, August 13, 2025  
+&emsp;**Date & Time:** June 20, 2026  
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+&emsp;**Location:** Swinburne University Vietnam, Ho Chi Minh City, Vietnam  
 
 &emsp;**Role:** Attendee  
+
