@@ -28,7 +28,7 @@ During my internship, I participated in two events. Each one was a memorable exp
 
 &emsp;**Date & Time:** May 23, 2026  
 
-&emsp;**Location:** Ho Chi Minh City, Vietnam  
+&emsp;**Location:** Bitexco Financial Tower, Ho Chi Minh City, Vietnam  
 
 &emsp;**Role:** Attendee  
 

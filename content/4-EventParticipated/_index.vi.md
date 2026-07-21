@@ -29,9 +29,9 @@ Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là
 
 &emsp;**Thời gian:** Ngày 23 tháng 05 năm 2026
 
-&emsp;**Địa điểm:** Thành phố Hồ Chí Minh, Việt Nam
+&emsp;**Địa điểm:** Bitexco Financial Tower, Thành phố Hồ Chí Minh, Việt Nam
 
-&emsp;**Vai trò trong sự kiện:** Người tham dự 
+&emsp;**Vai trò trong sự kiện:** Người tham dự
 
 ---
 
