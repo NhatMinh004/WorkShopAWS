@@ -1,6 +1,6 @@
 ---
 title: "Swinburne Cloud Mastery 2026"
-date: 2026-06-20
+date: 2026-07-04
 weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
@@ -10,8 +10,8 @@ pre: " <b> 4.2. </b> "
 
 ### Event Information
 * **Event Name:** Swinburne Cloud Mastery 2026
-* **Date & Time:** June 20, 2026 (08:00 - 12:00)
-* **Location:** Swinburne University Vietnam, Ho Chi Minh City, Vietnam
+* **Date & Time:** July 04, 2026 (09:00 - 12:00)
+* **Location:** Bitexco Financial Tower, Ho Chi Minh City, Vietnam
 * **Role:** Attendee
 * **Collaborators:** Swinburne Vietnam & AWS First Cloud AI Journey (FCAJ) Community
 

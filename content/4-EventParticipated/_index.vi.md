@@ -38,9 +38,9 @@ Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là
 ### [Event 2: Swinburne Cloud Mastery 2026](4.2-Event2/)
 &emsp;**Tên sự kiện:** Swinburne Cloud Mastery 2026
 
-&emsp;**Thời gian:** Ngày 20 tháng 06 năm 2026
+&emsp;**Thời gian:** Ngày 04 tháng 07 năm 2026
 
-&emsp;**Địa điểm:** Trường Đại học Swinburne Việt Nam, Thành phố Hồ Chí Minh, Việt Nam
+&emsp;**Địa điểm:** Bitexco Financial Tower, Thành phố Hồ Chí Minh, Việt Nam
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự
 

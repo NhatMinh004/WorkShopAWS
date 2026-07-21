@@ -37,9 +37,9 @@ During my internship, I participated in two events. Each one was a memorable exp
 ### [Event 2: Swinburne Cloud Mastery 2026](4.2-Event2/)  
 &emsp;**Event Name:** Swinburne Cloud Mastery 2026  
 
-&emsp;**Date & Time:** June 20, 2026  
+&emsp;**Date & Time:** July 04, 2026  
 
-&emsp;**Location:** Swinburne University Vietnam, Ho Chi Minh City, Vietnam  
+&emsp;**Location:** Bitexco Financial Tower, Ho Chi Minh City, Vietnam  
 
 &emsp;**Role:** Attendee  
 
