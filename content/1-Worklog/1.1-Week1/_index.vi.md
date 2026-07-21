@@ -20,6 +20,7 @@ pre: " <b> 1.1. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
+| 6 | - Nhận thông tin thực tập từ phía công ty <br> - Nhận tài khoản truy cập portal và tài liệu hướng dẫn chuẩn bị cho buổi onboarding | 17/04/2026 | 17/04/2026 | |
 | 2 | - Đăng ký tài khoản tại [HCM Portal](https://hcm-portal.fcjuni.com) <br> - Nhập các thông tin yêu cầu chuẩn bị cho việc lên văn phòng | 20/04/2026 | 20/04/2026 | |
 | 3 | - Đăng ký lịch làm việc tại văn phòng trên hệ thống portal <br> - Nhận email phê duyệt lịch làm việc | 21/04/2026 | 21/04/2026 | |
 | 4 | - Lên văn phòng làm việc trực tiếp và nhận áo đồng phục <br> - Đăng nhập tài khoản AWS <br> - Xem chi phí sử dụng AWS với AWS Budgets | 22/04/2026 | 22/04/2026 | <https://cloudjourney.awsstudygroup.com/> |

@@ -20,6 +20,7 @@ pre: " <b> 1.1. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
+| 6 | - Receive internship onboarding information from the company <br> - Obtain portal access account and orientation documents in preparation for the onboarding session | 04/17/2026 | 04/17/2026 | |
 | 2 | - Register account at [HCM Portal](https://hcm-portal.fcjuni.com) <br> - Fill in the required information to prepare for office registration | 04/20/2026 | 04/20/2026 | |
 | 3 | - Register office attendance schedule on the portal system <br> - Receive approval email | 04/21/2026 | 04/21/2026 | |
 | 4 | - Work directly at the office and receive the program uniform <br> - Log into the AWS account <br> - Check AWS usage costs using AWS Budgets | 04/22/2026 | 04/22/2026 | <https://cloudjourney.awsstudygroup.com/> |

@@ -12,7 +12,7 @@ pre: " <b> 1. </b> "
 
 # Internship Worklog Overview
 
-This page records the chronological sequence of my 15-week internship journey at First Cloud AI Journey, transitioning from fundamental AWS cloud infrastructure configurations to developing the frontend user experience and integrating production cloud services for the **NodeJ2Car** auto parts platform.
+This page records the chronological sequence of my 12-week internship journey at First Cloud AI Journey, transitioning from fundamental AWS cloud infrastructure configurations to developing the frontend user experience and integrating production cloud services for the **NodeJ2Car** auto parts platform.
 
 The detailed weekly roadmap is outlined below:
 
@@ -39,9 +39,3 @@ The detailed weekly roadmap is outlined below:
 **Week 11:** [Develop the Admin Dashboard panel governing product list updates, client orders, and coupon vouchers](1.11-Week11/)
 
 **Week 12:** [Compile React SPA (Vite) bundle and deploy assets to AWS S3 Static Website Hosting under SSL/HTTPS on CloudFront CDN](1.12-Week12/)
-
-**Week 13:** [Integrate AWS WAF policies filtering DDoS attempts and scanning bots](1.13-Week13/)
-
-**Week 14:** [Evaluate performance using Google Lighthouse metrics, optimize SEO metadata, and configure custom Cache-Control](1.14-Week14/)
-
-**Week 15:** [Conduct comprehensive End-to-End integration testing, final project handoff, and complete the internship report](1.15-Week15/)
